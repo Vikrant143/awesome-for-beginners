@@ -10,7 +10,7 @@ If you are looking to contribute, then explore this list, look at [`first-timers
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
-## Table of Contents:
+## List of Contents:
 
 - [.NET](#net)
 - [C](#c)
